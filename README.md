@@ -2,4 +2,4 @@
 
 Code for the app we built for Small Business Hacks at Intuit in November 2018.
 
-We built a web app called Lexii.
+We built a web app called Lexii which is short for lexicographical
