@@ -6,4 +6,4 @@ We built a web app called Lexii which is short for lexicographical.
 
 The app helps users find relevant pictures to complement their written content.
 
-The images are royalty free and are sourced from unsplashed.com
+The images are royalty free and are sourced from unsplashed.com, thus, users can get meaningful pictures to match the central ideas of their content.
