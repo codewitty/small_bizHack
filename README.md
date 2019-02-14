@@ -8,4 +8,4 @@ The app analyzes the written content posted by users using NLP and helps users f
 
 The images are royalty free and are sourced from unsplashed.com, thus, users can get meaningful pictures to match the central ideas of their content.
 
-All the users have
+All the users have to
